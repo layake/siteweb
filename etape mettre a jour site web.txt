@@ -1,0 +1,10 @@
+Dans gitbash faire
+"walktrought vers le dossier du site"
+entrer:
+	"git add ."
+	"git commit -m (nom de l'action)"
+#remarque:
+#si on oublie le "-m" mettre : ":q" pour sortir de la page
+
+	"git puch origin master"
+attendre pour que le site se mette a jour
