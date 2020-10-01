@@ -38,3 +38,6 @@ address {
   padding-top: 1em;
   border-top: thin dotted
 }
+a.game-link:visited {
+  color: black
+}
